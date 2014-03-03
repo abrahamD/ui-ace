@@ -2,6 +2,8 @@
 
 This directive allows you to add [ACE](http://ajaxorg.github.io/ace/) editor elements.
 
+Switched to ace 1.1.2
+
 ## Requirements
 
 - AngularJS
